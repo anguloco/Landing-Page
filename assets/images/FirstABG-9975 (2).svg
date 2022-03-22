@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2187.465" height="1855.556" viewBox="0 0 2187.465 1855.556">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.551" y1="0.092" x2="-0.013" y2="1.148" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4e0735"/>
+      <stop offset="0.649" stop-color="#870b5b"/>
+      <stop offset="1" stop-color="#e61e25"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.434" y1="0.26" x2="0" y2="1.166" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4e0735"/>
+      <stop offset="0.483" stop-color="#870b5b"/>
+      <stop offset="1" stop-color="#e61e25"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.551" y1="0.092" x2="-0.013" y2="1.148" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4e0735"/>
+      <stop offset="0.517" stop-color="#870b5b"/>
+      <stop offset="1" stop-color="#e61e25"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Path_8278" data-name="Path 8278" d="M0,0H1921s228.1,385.689-252.153,654.711S0,1076.086,0,1076.086Z" transform="translate(-1 -30)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_1920" data-name="Path 1920" d="M0,0H1921s228.1,385.689-252.153,654.711S0,1076.086,0,1076.086Z" transform="translate(-1)" fill="url(#linear-gradient-2)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_9975" data-name="Group 9975" transform="translate(213.333 22.548)">
+    <path id="Path_8276" data-name="Path 8276" d="M0,0S1440-417.5,1920,0s0,1670,0,1670H0Z" transform="translate(1920 1647.452) rotate(180)" fill="#f5f6fa"/>
+    <path id="Path_1889" data-name="Path 1889" d="M0,0H1921s228.1,385.689-252.153,654.711S0,1076.086,0,1076.086Z" transform="translate(-1 60)" fill="url(#linear-gradient-3)"/>
+    <g id="Mask_Group_9" data-name="Mask Group 9" transform="translate(0 90)" clip-path="url(#clip-path)">
+      <path id="Path_8277" data-name="Path 8277" d="M1068.5,829.254v240.573H827.9ZM1205.98,497.33V67.807L1088.652,19.232,12.828,1095.027,150.6,1152.091l917.9-918.351v401.1L608.313,1095.027l50.608,117.327,480.339-.149,66.72-68.693V691.779l458.04-458.04v895.813h137.475V67.807L1684.137,19.232Z" transform="translate(545.164 -107.422)" fill="#fff" opacity="0.6"/>
+    </g>
+  </g>
+</svg>
